@@ -4,12 +4,12 @@ This is a inventory management system
 # How to Setup
 1. Clone Project
 ```
-git clone https://github.com/sajib1066/inventory-management.git
+git clone https://github.com/hossain-shuvo7860/DJEcomAPI.git
 ```
 
 2. Go To Project Directory
 ```
-cd inventory-management
+cd DJEcomAPI
 ```
 3. Create Virtual Environment
 ```
