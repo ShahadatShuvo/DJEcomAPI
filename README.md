@@ -1,4 +1,4 @@
-# inventory-management
+# Django REST Ecom-API
 This is a simple Ecommerce API with Django and Django REST Framework
 
 # How to Setup
