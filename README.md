@@ -1,5 +1,5 @@
 # inventory-management
-This is a inventory management system
+This is a simple Ecommerce API with Django and Django REST Framework
 
 # How to Setup
 1. Clone Project
